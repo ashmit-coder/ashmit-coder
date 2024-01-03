@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ashmit-coder
-- 👀 I’m interested in ML and learning all about computers and become a very great programmer and solve world issues
-- 🌱 I’m currently learning ML and trying to do deep learning using python
-- 💞️ I’m looking to collaborate on any sort of project or competetions
+- 👀 I’m interested in Software Development.
+- 🌱 I’m currently learning more about backend maintainence.
+- 💞️ I’m looking to collaborate on any sort of project or competetions.
 - 📫 How to reach me, you can use my email ashmitjagtap2209.work@gmail.com or my twitter @AshmitJagtap
 <a href="https://drive.google.com/file/d/1VOwwsvq1v2l2rKhw-coyfkiqLZUlUpui/view?usp=sharing"> Resume</a>
 <!---
