@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **ashmitjagtap2209.work@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1XLkvJmhrJdV825QgslsJc7vtB-yn503u/edit?usp=sharing&ouid=104672155089411819473&rtpof=true&sd=true)
-
 - ⚡ Fun fact **I like anime.**
 
 <h3 align="left">Connect with me:</h3>
